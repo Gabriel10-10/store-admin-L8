@@ -9,6 +9,7 @@
       <p><b>Customer ID:</b> {{ order.customerId }}</p>
       <p><b>Status:</b> {{ order.status }}</p>
     </div>
+    
     <div class="order-items">
       <table>
         <thead>
