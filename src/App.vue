@@ -169,7 +169,7 @@ th,
 td {
   padding: 8px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ddddddff;
 }
 
 .order-detail {
@@ -178,7 +178,7 @@ td {
 
 button {
   padding: 10px;
-  background-color: #005f8b;
+  background-color: #8b2500ff;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -187,7 +187,7 @@ button {
 }
 
 button:hover {
-  background-color: #005f8b;
+  background-color: #8b2c00ff;
 }
 
 .action-button {
@@ -231,7 +231,7 @@ button:hover {
 }
 
 .ai-button:hover {
-  background-color: #005f8b;
+  background-color: #8b3800ff;
 }
 
 textarea {
